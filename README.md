@@ -1,4 +1,4 @@
-# Holaa 👋
+# Hi there 👋
 
 ## Ingeniero de Telecomunicaciones en Formación 👨‍💻
 
