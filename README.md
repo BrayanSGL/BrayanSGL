@@ -2,7 +2,7 @@
  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=BrayanSGL&section=header&textBg=false&fontSize=75&reversal=false" />
 </div>
 
-## Ingeniero de Telecomunicaciones en Formación 👨‍💻
+## Ingeniero de Telecomunicaciones 👨‍💻
 
 Apasionado por la tecnología, la educación y el aprendizaje continuo. Mi objetivo es combinar mi experiencia en tecnología con habilidades pedagógicas para enseñar y compartir conocimientos.
 
